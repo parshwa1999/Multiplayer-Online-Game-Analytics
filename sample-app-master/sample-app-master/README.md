@@ -15,3 +15,4 @@ Editing the author or app name in the manifest will prevent loading the app
 as unpacked app.
 
 For any further information or questions, contact developers@overwolf.com
+
